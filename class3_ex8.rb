@@ -1,0 +1,1 @@
+把hi從private移走
